@@ -160,27 +160,9 @@ Admin dashboard displays:
 
 ---
 
-# 🏗 System Architecture
+## 🏗 System Architecture
 
-```
-Customer Browser
-       │
-Frontend Interface
-(HTML, CSS, JavaScript)
-       │
-Laravel / PHP Backend
-       │
-Payment Gateway
-(Stripe / Razorpay)
-       │
-MySQL Database
-       │
-QR Code Generator
-       │
-Email Notification System
-       │
-Event Staff Dashboard
-```
+![Event Ticket System Architecture](api-architecture.png)
 
 ---
 
