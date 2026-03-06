@@ -169,22 +169,11 @@ Admin dashboard shows:
 
 ---
 
-# 🏗 System Architecture
+## System Architecture
 
-The system follows a modular architecture where the frontend communicates with a backend API that handles booking logic, payment verification, ticket generation, and QR validation.
-Customer Browser
-│
-Frontend (HTML, CSS, JavaScript)
-│
-Backend API (Laravel / PHP)
-│
-Payment Gateway (Stripe / Razorpay)
-│
-MySQL Database
-│
-QR Code Generator + Email Service
-│
-Event Staff Dashboard
+The platform follows a modular architecture where the frontend communicates with a Laravel backend API, which manages payments, ticket generation, and event verification.
+
+![System Architecture](api-architecture.png)
 
 ---
 
