@@ -216,33 +216,6 @@ The platform follows a modular architecture where the frontend communicates with
 
 ---
 
-# 📷 Screenshots
-
-Add screenshots inside the **screenshots folder**
-screenshots/
-event-listing.png
-event-details.png
-ticket-checkout.png
-qr-ticket.png
-admin-dashboard.png
-staff-verification.png
-
-Example:
-
-### Event Listing Page
-![Event Page](screenshots/event-listing.png)
-
-### Ticket Checkout
-![Checkout](screenshots/ticket-checkout.png)
-
-### QR Code Ticket
-![QR Ticket](screenshots/qr-ticket.png)
-
-### Staff Verification Dashboard
-![Staff Panel](screenshots/staff-verification.png)
-
----
-
 # 🔮 Future Improvements
 
 - Mobile QR scanning application
