@@ -1,4 +1,6 @@
-# 🎟 Event Ticket Booking Platform with QR Code Verification
+# 🎟 Event Ticket Booking Platform with QR Code Verification & Payment Gateway
+
+Laravel-based event ticket booking system with payment gateway integration, QR code tickets, and real-time event attendance verification.
 
 A complete **event ticket booking platform** that allows users to purchase event tickets online using a payment gateway and receive a **unique ticket code and QR code** via email.
 
@@ -213,6 +215,19 @@ The platform follows a modular architecture where the frontend communicates with
 ### Tools
 - Git
 - GitHub
+
+---
+
+## 🌐 Live Demo
+
+Portfolio Case Study:
+https://mukeshprajapat026.github.io/projects/event-ticket-system.html
+
+---
+
+## 🏷 Tags
+
+`laravel` `event-booking` `qr-code` `payment-gateway` `ticket-system`
 
 ---
 
