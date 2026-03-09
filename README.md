@@ -6,7 +6,7 @@ Event staff can verify attendees at the venue by **scanning the QR code or enter
 
 ⚡ **Portfolio Project – Built to demonstrate full-stack development, payment gateway integration, QR-based ticket verification, and event management systems.**
 
----
+---   
 
 # 📌 Project Overview
 
