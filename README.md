@@ -88,7 +88,7 @@ Event staff members can log in to the event dashboard and:
 - Scan ticket QR codes
 - Verify ticket codes manually
 - Mark attendees as **checked-in**
-- Prevent duplicate entries
+- Prevent duplicate entries       
 
 ---
 
@@ -97,10 +97,10 @@ Event staff members can log in to the event dashboard and:
 Each ticket is assigned a **unique ticket code**.
 
 Example:
-EVT-98234
-EVT-98235
-EVT-98236
-EVT-98237
+Enter Code: EVT-98234
+Enter Code: EVT-98235
+Enter Code: EVT-98236
+Enter Code: EVT-98237
 
 When a ticket is purchased:
 
